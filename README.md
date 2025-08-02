@@ -8,9 +8,9 @@ Apaixonado por tecnologia, atuei por muitos anos como editor de vídeos, porém 
 
 O curso foi mais voltado para o trabalho em back-end com o Java, onde foi ensinado também a crição básica de um banco de dados MySQL e a conexão dele utilizando o Java. Gostei muito de aprender sobre o Java, mas gostei bastante também de estudar o front-end, principalmente com o Angular. 
 
-Atualmente estou fazendo o bootcamp na [DIO](https://www.dio.me/) em conjunto com a Vivo de "Python AI Backend Developer" para aumentar meus conhecimentos. 
+Atualmente estou cursando o 3 semestre na facukdade de Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande, onde estou tendo um exelente aproveitamento. 
 
-Acredito que tenho capacidades sulficientes para poder entrar no mercado de trabalho como desenvolvedor, lembrando também que ainda tenho conhecimentos na área de design gráfico (curso que fiz para poder me tornar editor de vídeo), por isso estou a procura de um emprego, enquanto não entro no mercado, vou aprofundando meus conhecimentos com a ajuda de bootcamps e cursos na área.
+Acredito que tenho capacidades sulficientes para poder entrar no mercado de trabalho e estagiar na área, lembrando também que ainda tenho conhecimentos na área de design gráfico (curso que fiz para poder me tornar editor de vídeo), por isso estou a procura de um estágio.
 
 ## Contato
 
